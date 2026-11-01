@@ -1,7 +1,7 @@
 # 🌾 Dashboard Analisis Penyakit Tanaman Padi (Paddy Doctor)
 
-**Nama**: [Nama Kamu]  
-**NPM**: [NPM Kamu]  
+**Nama**: Sabrina Septiananda  
+**NPM**: 241051026
 **Mata Kuliah**: Visualisasi Data  
 **Dosen**: Muryan Awaludin, S.Kom., M.Kom.  
 **Program Studi**: Sistem Informasi / Manajemen Informatika - UNSURYA  
