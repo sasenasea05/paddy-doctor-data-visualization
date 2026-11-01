@@ -1,18 +1,19 @@
 # 🌾 Dashboard Analisis Penyakit Tanaman Padi (Paddy Doctor)
 
+**UJIAN TENGAH SEMESTER (UTS)**
 **Nama**: Sabrina Septiananda  
 **NPM**: 241051026
 **Mata Kuliah**: Visualisasi Data  
 **Dosen**: Muryan Awaludin, S.Kom., M.Kom.  
-**Program Studi**: Sistem Informasi / Manajemen Informatika - UNSURYA  
+**Program Studi**: Sistem Informasi - UNSURYA  
 
 ---
 
 ## 🌐 Live Dashboard URL
-👉 **[Klik di sini untuk mengakses Live Dashboard](https://your-app.streamlit.app)** *(Ganti link ini setelah di-deploy)*
+👉 **[Klik di sini untuk mengakses Live Dashboard]([https://your-app.streamlit.app](https://paddy-doctor-data-visualization-rpfe7yvgdxtnanfpfv3qwr.streamlit.app/))**
 
 ## 📂 Link Dataset Kaggle
-- **Sumber**: Kaggle - [Paddy Doctor - Rice Paddy Disease Classification](https://www.kaggle.com/c/paddy-disease-classification)
+- **Sumber**: Kaggle - [Paddy Doctor - Rice Paddy Disease Classification]([https://www.kaggle.com/c/paddy-disease-classification](https://www.kaggle.com/code/mpwolke/paddy-disease-neural-nets/input?select=train.csv))
 - **Jumlah Baris Data**: 10.407 baris (Memenuhi syarat UTS > 1.000 baris)
 
 ---
